@@ -5,9 +5,16 @@ git init -- initializes the .git folder in a repository
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+it is a virtual folder that acts as an intermediary betweeen the working directory 
+and the repository.
+
+it make the work more presentable and less ambiguous.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+By running the git diff-staged command to get the difference between the staging 
+area and the most recent commit in the repository.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
