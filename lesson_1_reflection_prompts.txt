@@ -21,7 +21,7 @@ files in one commit, while others, like Google Docs, treat each file separately?
 
 How can you use the commands git log and git diff to view the history of files?
 
-  git log ~~ scroll down afterwards; then git diff file_1 file _2 
+  git log ~~ scroll down afterwards; then git diff file_1 file _2  (put the latest one at file_2)
 **git clone -- to copy repository**git checkout to restore commit**git init to create a .git file**
 
 How might using version control make you more confident to make changes that
