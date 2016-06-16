@@ -25,6 +25,10 @@ to the project
 
 How do the diagrams help you visualize the branch structure?
 
+use "git branch" to view the existing branches then,
+
+git log --graph --oneline(how you want it to appear) branch1 branch2 (all the branches you want to visualise in the diagram)
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
