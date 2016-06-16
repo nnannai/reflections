@@ -36,3 +36,5 @@ because A was deleted.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+the automatic merging is not smart enough to discern between certain lines of code, manual method is quite tedious but more effective most times.
